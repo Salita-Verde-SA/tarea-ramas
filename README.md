@@ -1,2 +1,6 @@
+
 >[!TIP]
 > aaa
+
+> [!WARNING]
+> hola
